@@ -96,7 +96,7 @@ class studentController extends Controller
 
                   'name'=>'kian',
 
-                  'family'=>'omidi',
+                  'family'=>'malaki',
 
               ];
 
@@ -106,7 +106,7 @@ class studentController extends Controller
 
                 'name'=>'ali',
 
-                'family'=>'armani',
+                'family'=>'ahmadi',
 
             ];
 
